@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+this is me - 
 
 - 🔭 I’m currently working on ...Data structures and algorithms
 - 🌱 I’m currently learning ...React js
